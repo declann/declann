@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Declan. I work with numbers, mostly in actuarial departments. 📊  
+I also develop calcu-lang, with a mission to democratise numbers. A life project and still a baby. :seedling:
 
 <!--
 **declann/declann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
