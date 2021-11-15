@@ -2,7 +2,7 @@
 I'm Declan. I work with numbers, mostly in actuarial departments. 📊  
 I also develop [calculang](https://github.com/calculang/calculang), with a mission to democratise numbers. A life project and still a baby. :seedling:
 
-:hatching_chick: check [my ObservableHQ collection](https://observablehq.com/@declann?tab=collections) for some really early calculang models.
+:hatching_chick: check [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for some really early calculang models.
 
 <!--
 **declann/declann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
