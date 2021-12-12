@@ -4,6 +4,8 @@ I also develop [calculang](https://github.com/calculang/calculang), with a missi
 
 :hatching_chick: check [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for some really early calculang models.
 
+For calculang office hours, [schedule on Calendly](https://calendly.com/dcnconsulting/calculang-office-hours-20).
+
 <!--
 **declann/declann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
