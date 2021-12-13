@@ -2,7 +2,7 @@
 I'm Declan. I work with numbers, mostly in actuarial departments. 📊  
 I also develop [calculang](https://github.com/calculang/calculang), with a mission to democratise numbers. A life project and still a baby. :seedling:
 
-:hatching_chick: check [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for some really early calculang models.
+:hatching_chick: check [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for some really early calculang models and interactions.
 
 📫 for calculang office hours, [schedule on Calendly](https://calendly.com/dcnconsulting/calculang-office-hours-20).
 
