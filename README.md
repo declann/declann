@@ -4,6 +4,11 @@ I also develop [calculang](https://github.com/calculang/calculang), with a missi
 
 :hatching_chick: check [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for some really early calculang models and interactions.
 
+#### 🐣 some early calculang highlights ⚡
+
+- [loan validator 🕵️ (dev 📓)](https://observablehq.com/@declann/loan-validator-dev?collection=@declann/calculang)
+- [some SaaS cashflows 💸](https://observablehq.com/@declann/some-cashflows?collection=@declann/calculang)
+
 📫 for calculang office hours, [schedule on Calendly](https://calendly.com/dcnconsulting/calculang-office-hours-20).
 
 <!--
