@@ -1,13 +1,14 @@
 ### Hi there 👋
+
 I'm Declan. I work with numbers, mostly in actuarial departments. 📊  
+
 I also develop [calculang](https://github.com/calculang/calculang), with a mission to democratise numbers. A life project and still a baby. :seedling:
 
-:hatching_chick: check [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for some really early calculang models and interactions.
-
-#### 🐣 some early calculang highlights ⚡
+#### 🐣 early calculang highlights ⚡
 
 - [some SaaS cashflows 💸](https://observablehq.com/@declann/some-cashflows?collection=@declann/calculang)
 - [loan validator 🕵️ (dev 📓)](https://observablehq.com/@declann/loan-validator-dev?collection=@declann/calculang)
+- more on [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang)
 
 📫 for calculang office hours, [schedule on Calendly](https://calendly.com/dcnconsulting/calculang-office-hours-20).
 
