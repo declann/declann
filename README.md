@@ -10,7 +10,7 @@ I also develop [calculang](https://github.com/calculang/calculang), with a missi
 - [loan validator 🕵️ (dev 📓)](https://observablehq.com/@declann/loan-validator-dev?collection=@declann/calculang)
 - more on [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang)
 
-📫 for updates, follow [@calculang](https://twitter.com/calculang) on Twitter.
+📫 for calculang updates, follow [@calculang](https://twitter.com/calculang) on Twitter.
 
 📫 for calculang office hours, [schedule on Calendly](https://calendly.com/dcnconsulting/calculang-office-hours-20).
 
