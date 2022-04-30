@@ -6,6 +6,7 @@ I also develop [calculang](https://github.com/calculang/calculang), with a missi
 
 #### 🐣 early calculang highlights ⚡
 
+- [calcudonuts 🍩💫 ](https://observablehq.com/@declann/calcudonuts?collection=@declann/calculang)
 - [some SaaS cashflows 💸](https://observablehq.com/@declann/some-cashflows?collection=@declann/calculang)
 - [loan validator 🕵️ (dev 📓)](https://observablehq.com/@declann/loan-validator-dev?collection=@declann/calculang)
 - [covid19: cases-deaths link (wip)](https://observablehq.com/@declann/covid19-cases-deaths-link?collection=@declann/calculang)
