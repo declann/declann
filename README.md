@@ -7,7 +7,7 @@ I also develop [calculang](https://github.com/calculang/calculang), with a missi
 #### 🐣 early calculang highlights ⚡
 
 - see [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for early models about the sunset 🌞, donuts 🍩, loans, taxes 💵 and more.
-- browse [@calculang](https://twitter.com/calculang) on Twitter for announcements, heart model visualisations and more. Follow if you are a Twitter user!
+- browse [@calculang](https://twitter.com/calculang) on Twitter for announcements, heart model visualisations and other stuff. Follow if you are a Twitter user!
 
 📫 calculang updates mostly go only on Twitter for now: [@calculang](https://twitter.com/calculang)
 
