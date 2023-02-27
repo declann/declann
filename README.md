@@ -6,13 +6,10 @@ I also develop [calculang](https://github.com/calculang/calculang), with a missi
 
 #### 🐣 early calculang highlights ⚡
 
-- [calcudonuts 🍩💫 ](https://observablehq.com/@declann/calcudonuts?collection=@declann/calculang)
-- [some SaaS cashflows 💸](https://observablehq.com/@declann/some-cashflows?collection=@declann/calculang)
-- [loan validator 🕵️ (dev 📓)](https://observablehq.com/@declann/loan-validator-dev?collection=@declann/calculang)
-- [covid19: cases-deaths link (wip)](https://observablehq.com/@declann/covid19-cases-deaths-link?collection=@declann/calculang)
-- more in [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang)
+- see [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for early models about the sunset 🌞, donuts 🍩, loans, taxes 💵 and more.
+- browse [@calculang](https://twitter.com/calculang) on Twitter for announcements, heart model visualisations and more. Follow if you are a Twitter user!
 
-📫 for calculang updates, follow [@calculang](https://twitter.com/calculang) on Twitter.
+📫 calculang updates mostly go only on Twitter for now: [@calculang](https://twitter.com/calculang)
 
 📫 for calculang office hours, [schedule on Calendly](https://calendly.com/dcnconsulting/calculang-office-hours-20).
 
