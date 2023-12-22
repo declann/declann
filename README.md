@@ -2,12 +2,13 @@
 
 I'm Declan. I work with numbers, mostly in actuarial departments. 📊  
 
-I also develop [calculang](https://github.com/calculang/calculang), with a mission to democratise numbers. A life project and still a baby. :seedling:
+I also develop [calculang](https://calculang.dev), with a mission to democratise numbers. A life project and still a baby. :seedling:
 
 #### 🐣 early calculang highlights ⚡
 
+- [calculang.dev](https://calculang.dev) for the official website and examples!
 - see [my ObservableHQ collection](https://observablehq.com/collection/@declann/calculang) for early models about the sunset 🌞, donuts 🍩, loans, taxes 💵 and more.
-- browse [@calculang](https://twitter.com/calculang) on Twitter for announcements, heart model visualisations and other stuff. Follow if you are a Twitter user!
+- browse or follow [@calculang](https://fosstodon.org/@calculang) on Fosstodon for announcements, heart model visualisations and other stuff.
 
 📫 calculang updates mostly via Twitter [@calculang](https://twitter.com/calculang) and Fosstodon [@calculang](https://fosstodon.org/@calculang)
 
