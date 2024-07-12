@@ -4,7 +4,7 @@ I'm Declan. I work with numbers, mostly in actuarial departments. 📊
 
 I also develop [calculang](https://calculang.dev), a language for calculations 🧮💬👩‍💻
 
-In [my blog](https://calcwithdec.dev/) I make posts about numbers that are visual and interactive.
+In [my blog](https://calcwithdec.dev/) I share posts about numbers that are visual and interactive.
 
 #### 🐣 early calculang highlights ⚡
 
