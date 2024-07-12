@@ -4,11 +4,11 @@ I'm Declan. I work with numbers, mostly in actuarial departments. 📊
 
 I also develop [calculang](https://calculang.dev), a language for calculations 🧮💬👩‍💻
 
+In [my blog](https://calcwithdec.dev/) I make posts about numbers that are visual and interactive.
+
 #### 🐣 early calculang highlights ⚡
 
 - [calculang.dev](https://calculang.dev) for the official website and examples!
-- [new, WIP, gallery and editor](https://calculang-editables.netlify.app/)
-- browse or follow [@calculang](https://fosstodon.org/@calculang) on Fosstodon for announcements
 
 📫 calculang updates mostly via Twitter [@calculang](https://twitter.com/calculang) and Fosstodon [@calculang](https://fosstodon.org/@calculang)
 
