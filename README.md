@@ -4,13 +4,13 @@ I'm Declan. I work with numbers, mostly in actuarial departments. 📊
 
 I also develop [calculang](https://calculang.dev), a language for calculations 🧮💬👩‍💻
 
-In [my blog](https://calcwithdec.dev/) I share posts about numbers that are visual and interactive.
+and I published [ActuarialPlayground.com](https://actuarialplayground.com): a visual and interactive actuarial cashflow model.
 
-#### 🐣 early calculang highlights ⚡
+In [my blog](https://calcwithdec.dev/) I share posts about numbers that are visual and interactive. I share some videos [on Youtube](https://youtube.com/@calcwithdec) too.
 
-- [calculang.dev](https://calculang.dev) for the official website and examples!
+To collaborate on calculang-related projects and goals, get in touch.
 
-📫 calculang updates mostly via Twitter [@calculang](https://twitter.com/calculang) and Fosstodon [@calculang](https://fosstodon.org/@calculang)
+📫 calculang updates mostly via Fosstodon [@calculang](https://fosstodon.org/@calculang) sometimes [LinkedIn](https://linkedin.com/in/declann)
 
 <!--
 **declann/declann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
