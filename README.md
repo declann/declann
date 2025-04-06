@@ -12,6 +12,8 @@ To collaborate on calculang-related projects and goals, get in touch.
 
 📫 calculang updates mostly via Fosstodon [@calculang](https://fosstodon.org/@calculang) sometimes [LinkedIn](https://linkedin.com/in/declann)
 
+Find other public repos [on GitLab](https://gitlab.com/declann).
+
 <!--
 **declann/declann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
