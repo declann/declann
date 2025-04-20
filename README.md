@@ -6,7 +6,7 @@ I also develop [calculang](https://calculang.dev), a language for calculations ð
 
 and I published [ActuarialPlayground.com](https://actuarialplayground.com): a visual and interactive actuarial cashflow model.
 
-In [my blog](https://calcwithdec.dev/) I share posts about numbers that are visual and interactive. I share some videos [on Youtube](https://youtube.com/@calcwithdec) too.
+In [my blog](https://calcwithdec.dev/) I share posts about numbers that are also visual and interactive. I share some videos [on Youtube](https://youtube.com/@calcwithdec) too.
 
 To collaborate on calculang-related projects and goals, get in touch.
 
